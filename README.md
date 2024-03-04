@@ -1,5 +1,15 @@
 # AZURE_Machine_Learning
+
 Trabalhando com Machine Learning na Prática no Azure ML
+
+DESCRIÇÃO
+Neste LAB, vamos aprender a criar nossa conta no Azure e explorar as capacidades de Machine Learning da plataforma para desenvolver nossa primeira automação prática. 
+Ao aplicar implementações e soluções escaláveis de aprendizado de máquina na nuvem da Microsoft, 
+adquiriremos conhecimentos valiosos e experiência na construção de soluções eficientes.
+
+Valéria Baptista
+Head of Cloud and Cybersecurity, CloudData Tech & DevOps
+
 
 ************ Sessão 01  - Acessando a Azure e Criando Machine Learning ********************************************
 
@@ -79,4 +89,72 @@ Seção 02
 6 - Configurações básicas  
 ![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/07c036ed-bf49-401d-b965-4ba07464fee1)
 
-7 - 
+7 -  Selecionar o tipo de tarefaz  - Regrassão [CRIAR] 
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/b5a46664-dec9-4747-8676-760b83e712e5) 
+ 
+8 - Definir o nome e o tipo de dados ativo 
+
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/02070bb9-b16a-410e-be55-b6e8fd050ede)
+
+9 -  Fonte de dados Arquivos da Web 
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/43c429cb-ebaf-413a-a011-47681307021f)
+
+10 - Configuração da URL da Web 
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/798dd212-3e9a-45c7-bfba-7c2cd8192f60)
+
+11 - Configurações  - [ Avançar ] 
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/f6b0b5e0-b81f-4625-9e1c-b17874af3557)
+
+12 -  Criar 
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/ebbc5002-9814-4a3e-b054-a3a5973d0ae4)
+
+13 - Envie um trabalho de ML automatizado  -  Avançar 
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/7d85c078-94f6-4df5-8f78-1ba680879542)
+
+14 - Configurações de tarefaz  -  Avançar 
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/b5db126f-2df2-420d-bec8-6794dfc170e6)
+
+15 - Configuração Adicional  
+
+* Metrica primária
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/bad27a5f-58f8-420d-a9cd-6c26f7972ea3)
+
+* Modelos Permitidos
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/56530d83-69e3-42cf-9dbf-b59790cd3867)
+
+* Limites
+  ![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/a2b1c165-f048-4c37-ade4-ff6b5cc4d703)
+
+* Habilitar - [Avançar] 
+  ![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/0e13d1e2-dc37-4091-9f9b-d18e8a6fccad)
+
+16 - Computação - [Avançar] 
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/7a08043e-a20c-4d65-81fb-55967b84e66e)
+
+17 -  Examinar  - Enviar 
+
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/b76454ff-81e4-4246-a29a-be005931f5ac)
+
+********** Analise de teste de modelo ****************
+1 - Trafas Jobs  clicar no link 
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/ea1e5993-50f9-4798-9c2a-9f425cb7875b)
+
+* => mslearn-bike-rental
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/6ae42cf7-ed3c-4708-a0ab-de354566bdf6)
+
+2 -  Validar a integridade 
+
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/0ed0b041-32ad-4212-9c2c-3aac860e5b8b)
+
+3  -  Metrics 
+
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/f119d999-a82d-4f57-8201-eba9693c9b38)
+
+4 - Pontos de extremidade testar  
+* Colar um  Json  para testar aplicação
+* Levar em conta volume de dados
+* Explorar tutoriais 
+
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/ac36a3a6-d606-481a-8a21-08fd747d14ae)
+
+
