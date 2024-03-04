@@ -157,4 +157,106 @@ Seção 02
 
 ![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/ac36a3a6-d606-481a-8a21-08fd747d14ae)
 
+Modelo de Json  - Loja que aluga BIKES   
+
+{
+  "loja": {
+    "nome": "Bike Mania",
+    "endereço": "Rua José do Patrocínio, 123",
+    "cidade": "Canoas",
+    "estado": "RS",
+    "cep": "92010-000",
+    "telefone": "(51) 3456-7890",
+    "email": "contato@bikemania.com.br",
+    "site": "www.bikemania.com.br",
+    "redes_sociais": {
+      "facebook": "bikemaniacanoas",
+      "instagram": "@bikemaniacanoas"
+    }
+  },
+  "bicicletas": [
+    {
+      "id": 1,
+      "modelo": "Caloi 10",
+      "tipo": "mountain bike",
+      "aro": 29,
+      "cor": "preta",
+      "marcha": 21,
+      "preco": 1.500,
+      "imagem": "https://br.pinterest.com/jolciovaz/caloi-10/",
+      "estoque": 10
+    },
+    {
+      "id": 2,
+      "modelo": "Sense Road",
+      "tipo": "bicicleta de estrada",
+      "aro": 700,
+      "cor": "azul",
+      "marcha": 24,
+      "preco": 2.000,
+      "imagem": "https://www.metsense.com/products/detail/2droad/",
+      "estoque": 5
+    },
+    {
+      "id": 3,
+      "modelo": "Oggi Urban",
+      "tipo": "bicicleta urbana",
+      "aro": 26,
+      "cor": "branca",
+      "marcha": 7,
+      "preco": 800,
+      "imagem": "https://www.urbanimagesphotography.com/",
+      "estoque": 15
+    },
+    {
+      "id": 4,
+      "modelo": "Monark BMX",
+      "tipo": "bicicleta BMX",
+      "aro": 20,
+      "cor": "vermelha",
+      "marcha": 1,
+      "preco": 500,
+      "imagem": "https://www.pinterest.com/pin/514817801134362302/",
+      "estoque": 8
+    }
+  ],
+  "acessorios": [
+    {
+      "id": 1,
+      "tipo": "capacete",
+      "marca": "Pro Tork",
+      "cor": "preto",
+      "tamanho": "M",
+      "preco": 100,
+      "imagem": "https://www.protork.com/capacetes"
+    },
+    {
+      "id": 2,
+      "tipo": "luvas",
+      "marca": "Shimano",
+      "cor": "preta",
+      "tamanho": "G",
+      "preco": 50,
+      "imagem": "https://lista.mercadolivre.com.br/luva-shimano"
+    },
+    {
+      "id": 3,
+      "tipo": "lanterna",
+      "marca": "Firefly",
+      "cor": "preta",
+      "tipo_luz": "LED",
+      "preco": 80,
+      "imagem": "https://www.pinterest.com/pin/245586985909826524/"
+    },
+    {
+      "id": 4,
+      "tipo": "bomba de ar",
+      "marca": "Zéfal",
+      "tipo_bomba": "manual",
+      "preco": 30,
+      "imagem": "https://www.zefal.com/es/21-mini-bombas"
+    }
+  ]
+}
+
 
