@@ -1,6 +1,8 @@
 # AZURE_Machine_Learning
 Trabalhando com Machine Learning na Prática no Azure ML
 
+************ Sessão 01  - Acessando a Azure e Criando Machine Learning ********************************************
+
 1 - Entrar na Conta do Microsoft Azure 
 ![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/4b4867fb-b7f3-4634-85e7-ccf7e5d5c154)
 
@@ -53,4 +55,28 @@ Aparência - trocar cor possição de menus
 12 - DEPLOI de criação Overwiel 
 ![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/13deb41a-bffe-4145-81be-13f2e0263844)
 
+Seção 02 
+*********************** Configurando Modelos e conjuntos de dados **************************************************
 
+1 - GO TO RESOURCE
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/0845ed39-00dc-4bec-85d4-f668b04256f9)
+
+2 - Launch Studio 
+
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/2d80b004-5132-43c0-9261-5fdb30fde135)
+
+3 - Criar um espaço de trabalho 
+
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/2d39126b-f1a5-4196-842c-96b3590432eb)
+
+4 - guia ML - Automatizado 
+
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/6010cb56-b6c0-4974-82ce-b5bac015a55e) 
+
+5 -  + Novo trabalho de ML Automatizado 
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/479e6ac6-66fb-48e5-b1e9-15d7467f4713)
+
+6 - Configurações básicas  
+![image](https://github.com/edudias1972/AZURE_Machine_Learning/assets/80340034/07c036ed-bf49-401d-b965-4ba07464fee1)
+
+7 - 
